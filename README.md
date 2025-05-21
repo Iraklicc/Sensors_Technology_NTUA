@@ -1,0 +1,1 @@
+Fluxgate, Hall, Arduino, Combination
